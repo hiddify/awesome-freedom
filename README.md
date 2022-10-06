@@ -105,7 +105,7 @@ This approach works by changing packets to scape filtering!
 **[`^        back to top        ^`](#table-of-content)**
 - [Hetzner](https://www.hetzner.com/cloud?country=ot) Cheap but high quality vps (starts from 3.79€/m for a vps with 2GB of RAM)
 - [OVH](https://www.ovhcloud.com/fr/vps/) (starts from 3.5€/m for a vps with 2GB of RAM)
-- [Azure](https://azure.microsoft.com/en-us/free/students/)  Free for students to setup 2 VPS (0.5 GB of RAM) with two IPs 
+- [Azure](https://azure.microsoft.com/en-us/free/students/)  Free for students to setup 2 VPS (0.5 GB of RAM) with two IPs. [One Click Tutorial for setting up proxy in Azure](https://hiddify.github.io/setup_proxy.html)
 
 # Public Free AntiFilter
 **[`^        back to top        ^`](#table-of-content)**
