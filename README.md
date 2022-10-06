@@ -3,6 +3,14 @@ In this repository we have collected all awesome tools for iranian people
 
 # Table of Content
 - [Telegram Proxy](#telegram-proxy)
+- [AntiFilter](#anti-filter)
+- - [Server](#server)
+- - [Client](#client)
+- - - [Clash](#clash)
+- - - [ServerLess](#serverless)
+- - - [OpenVpn](#openvpn)
+- - - [Shadowsocks](#shadowsocks)
+- - - [Outline](#outline)
 - [VPS Provider](#vps-provider)
 
 # Telegram Proxy
@@ -15,9 +23,15 @@ In this repository we have collected all awesome tools for iranian people
 **[`^        back to top        ^`](#table-of-content)**
 ## Server
 **[`^        back to top        ^`](#table-of-content)**
+### Gost
 - [Gost](https://github.com/ginuerzh/gost) Easy to setup but powerful and support nearly all proxy protocol such as tls tunnel ssh golang udp http2 socks5 shadowsocks kcp quic tuntap sni obfs4 dns 
+- Compatible Clients `clash` `outline (limited)`
+### Shadowsocks
 - [Shadowsocks](https://shadowsocks.org/en/index.html) - A secure proxy, designed to protect your Internet traffic.
-- [Outline](https://getoutline.org/fa/get-started/#step-1) - A secure socks5 proxy, designed to protect your Internet traffic.
+- Compatible Clients `clash` `outline`
+### Outline
+- [Outline](https://getoutline.org/fa/get-started/#step-1) - A secure socks5 proxy, designed to protect your Internet traffic. 
+- Compatible Clients `clash` `outline`
 
 
 ## Client
