@@ -10,6 +10,7 @@ If you know more tools, please add it in issues or add a pull requests
     - [Gost](#gost)
     - [Shadowsocks](#shadowsocks)
     - [Outline](#outline)
+    - [SoftEther](#softether)
   - [Client](#client)
     - [Clash](#clash)
     - [ServerLess](#serverless)
@@ -17,6 +18,7 @@ If you know more tools, please add it in issues or add a pull requests
     - [Outline](#outline)
     - [OpenVpn](#openvpn)
     - [Cisco AnyConnect](#cisco-anyconnect)
+    - [SoftEther Client](#softether-client)
 - [VPS Provider](#vps-provider)
 - [Free AntiFilter](#free-antifilter)
 - [Free AntiFilter with user registration](#free-antiFilter-with-user-registration)
@@ -95,11 +97,11 @@ This approach works by changing packets to scape filtering!
 - [Android](https://play.google.com/store/apps/details?id=com.cisco.anyconnect.vpn.android.avf&hl=en&gl=US)
 - [iOS](https://apps.apple.com/us/app/cisco-secure-client/id1135064690?platform=iphone)
 
-### Softether
+### Softether Client
 - [SoftEther](https://www.softether-download.com/en.aspx?product=softether) 
 - A simple vpn client for softether server
 
-# VPS Provider
+# Suggested VPS Providers
 **[`^        back to top        ^`](#table-of-content)**
 - [Hetzner](https://www.hetzner.com/cloud?country=ot) Cheap but high quality vps (starts from 3.79€/m for a vps with 2GB of RAM)
 - [OVH](https://www.ovhcloud.com/fr/vps/) (starts from 3.5€/m for a vps with 2GB of RAM)
