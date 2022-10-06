@@ -1,5 +1,7 @@
 # Awesome Iran Freedom
-In this repository we have collected all awesome tools for iranian people
+In this repository we have collected all awesome tools for iranian people.
+
+If you know more tools, please add it in issues or add a pull requests
 
 # Table of Content
 - [Telegram Proxy](#telegram-proxy)
