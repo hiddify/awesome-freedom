@@ -56,7 +56,6 @@ If you know more tools, please add it in issues or add a pull requests
 - [Android: Google Play](https://play.google.com/store/apps/details?id=com.github.kr328.clash) [Android: APK](https://github.com/Kr328/ClashForAndroid/releases/download/v2.5.11/cfa-2.5.11-premium-universal-release.apk) [Android: Repository](https://github.com/Kr328/ClashForAndroid)
 - [Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.4/Clash.for.Windows.Setup.0.20.4.exe)
 - [macOS](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.4/Clash.for.Windows-0.20.4.dmg) 
-- [macOS M1](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.4/Clash.for.Windows-0.20.4-arm64.dmg)  
 - [Linux](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.5/Clash.for.Windows-0.20.5-x64-linux.tar.gz)
 - [iOS: Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118?platform=iphone) is not free. [How to bypass payment](https://github.com/WeAreMahsaAmini/FreeInternet/blob/main/README.md#ios)  
 
