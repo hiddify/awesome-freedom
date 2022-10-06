@@ -35,7 +35,8 @@ If you know more tools, please add it in issues or add a pull requests
 **[`^        back to top        ^`](#table-of-content)**
 ### Gost
 - [Gost](https://github.com/ginuerzh/gost) - Easy to setup but powerful and support nearly all proxy protocol such as tls tunnel ssh golang udp http2 socks5 shadowsocks kcp quic tuntap sni obfs4 dns 
-- [Full Configuration script](https://github.com/hiddify/config/blob/main/gost/setup_gost.sh)
+- [Document](https://v2.gost.run/en/)
+- [Example Configuration Script](https://github.com/hiddify/config/blob/main/gost/setup_gost.sh)
 - Compatible Clients `clash` `outline`
 ### Shadowsocks
 - [Download](https://shadowsocks.org/en/index.html) - A secure proxy, designed to protect your Internet traffic.
