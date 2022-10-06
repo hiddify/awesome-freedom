@@ -5,13 +5,19 @@ In this repository we have collected all awesome tools for iranian people
 - [Telegram Proxy](#telegram-proxy)
 - [AntiFilter](#anti-filter)
   - [Server](#server)
+    - [Gost](#gost)
+    - [Shadowsocks](#shadowsocks)
+    - [Outline](#outline)
   - [Client](#client)
     - [Clash](#clash)
     - [ServerLess](#serverless)
-    - [OpenVpn](#openvpn)
     - [Shadowsocks](#shadowsocks)
     - [Outline](#outline)
-  - [VPS Provider](#vps-provider)
+    - [OpenVpn](#openvpn)
+    - [Cisco AnyConnect](#cisco-anyconnect)
+- [VPS Provider](#vps-provider)
+- [Free AntiFilter](#free-antifilter)
+- [Free AntiFilter with user registration](#free-antiFilter-with-user-registration)
 
 # Telegram Proxy
  **[`^        back to top        ^`](#table-of-content)**
@@ -20,7 +26,6 @@ In this repository we have collected all awesome tools for iranian people
  - [Official C++](https://github.com/TelegramMessenger/MTProxy) Hard to setup
  
 # Anti-Filter
-**[`^        back to top        ^`](#table-of-content)**
 ## Server
 **[`^        back to top        ^`](#table-of-content)**
 ### Gost
@@ -32,6 +37,10 @@ In this repository we have collected all awesome tools for iranian people
 ### Outline
 - [Outline](https://getoutline.org/fa/get-started/#step-1) - A secure socks5 proxy, designed to protect your Internet traffic. 
 - Compatible Clients `clash` `outline`
+### Softether
+- [SoftEther](https://www.softether-download.com/en.aspx?product=softether) 
+- A simple vpn manager that supports many vpn protocol
+- Compatible Clients `pptp` `sstp` `l2tp` `openvpn` `softether`
 
 
 ## Client
@@ -77,6 +86,10 @@ This approach works by changing packets to scape filtering!
 - [Android](https://play.google.com/store/apps/details?id=com.cisco.anyconnect.vpn.android.avf&hl=en&gl=US)
 - [iOS](https://apps.apple.com/us/app/cisco-secure-client/id1135064690?platform=iphone)
 
+### Softether
+- [SoftEther](https://www.softether-download.com/en.aspx?product=softether) 
+- A simple vpn client for softether server
+
 # VPS Provider
 **[`^        back to top        ^`](#table-of-content)**
 - [Hetzner](https://www.hetzner.com/cloud?country=ot) Cheap but high quality vps (starts from 3.79€/m for a vps with 2GB of RAM)
@@ -90,6 +103,6 @@ This approach works by changing packets to scape filtering!
 - [Ultrasurf: iOS](https://apps.apple.com/us/app/ultrasurf-vpn/id1563051300), [Ultrasurf: Android](https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ultrasurf&hl=en_US&gl=US), [Ultrasurf: Windows](https://ultrasurf.us/download/usf.zip), [Ultrasurf: chrome/edge browser](https://chrome.google.com/webstore/detail/ultrasurf-security-privac/mjnbclmflcpookeapghfhapeffmpodij)
 
 
-# Public Free AntiFilter with user registration
+# Free AntiFilter with user registration
 **[`^        back to top        ^`](#table-of-content)**
 - [VpnGate](https://www.vpngate.net/en/)
