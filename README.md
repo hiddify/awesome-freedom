@@ -35,6 +35,7 @@ If you know more tools, please add it in issues or add a pull requests
 - Compatible Clients `clash` `outline (limited)`
 ### Shadowsocks
 - [Shadowsocks](https://shadowsocks.org/en/index.html) - A secure proxy, designed to protect your Internet traffic.
+- [Tutorial](https://github.com/WeAreMahsaAmini/FreeInternet)
 - Compatible Clients `clash` `outline`
 ### Outline
 - [Outline](https://getoutline.org/fa/get-started/#step-1) - A secure socks5 proxy, designed to protect your Internet traffic. 
@@ -55,7 +56,9 @@ If you know more tools, please add it in issues or add a pull requests
 - [macOS](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.4/Clash.for.Windows-0.20.4.dmg) 
 - [macOS M1](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.4/Clash.for.Windows-0.20.4-arm64.dmg)  
 - [Linux](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.5/Clash.for.Windows-0.20.5-x64-linux.tar.gz)
-- [iOS: Shadowrocket not free](https://apps.apple.com/us/app/shadowrocket/id932747118?platform=iphone)  [iOS: Stash not free](https://apps.apple.com/app/stash/id1596063349?platform=iphone) not free
+- [iOS: Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118?platform=iphone) is not free. [How to bypass payment](https://github.com/WeAreMahsaAmini/FreeInternet/blob/main/README.md#ios)  
+
+<!--- [iOS: Stash not free](https://apps.apple.com/app/stash/id1596063349?platform=iphone) not free-->
  
  #### Clash example configuration for Iran
  - [only pass filtered sites to proxy](https://github.com/hiddify/config/blob/main/clash/lite.yml)  
@@ -71,7 +74,11 @@ This approach works by changing packets to scape filtering!
 - [Windows: GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) [Windows: GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel)
 
 ### Shadowsocks
-- [iOS: Shadowlink](https://apps.apple.com/us/app/shadowlink-shadowsocks-vpn/id1439686518)
+ **we suggest to use clash client instead of shadowsocks client**
+- [iOS: Shadowlink](https://apps.apple.com/us/app/shadowlink-shadowsocks-vpn/id1439686518) is not free. [How to bypass payment](https://github.com/WeAreMahsaAmini/FreeInternet/blob/main/README.md#ios)
+- [Android](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
+- [Windows](https://github.com/shadowsocks/shadowsocks-windows/releases)
+- [macOS](https://github.com/shadowsocks/shadowsocks-windows/releases)
 
 ### Outline
 - [Outline](https://getoutline.org/fa/get-started/#step-3)
