@@ -34,7 +34,7 @@ If you know more tools, please add it in issues or add a pull requests
 **[`^        back to top        ^`](#table-of-content)**
 ### Gost
 - [Gost](https://github.com/ginuerzh/gost) Easy to setup but powerful and support nearly all proxy protocol such as tls tunnel ssh golang udp http2 socks5 shadowsocks kcp quic tuntap sni obfs4 dns 
-- Compatible Clients `clash` `outline (limited)`
+- Compatible Clients `clash` `outline`
 ### Shadowsocks
 - [Shadowsocks](https://shadowsocks.org/en/index.html) - A secure proxy, designed to protect your Internet traffic.
 - [Tutorial](https://github.com/WeAreMahsaAmini/FreeInternet)
@@ -99,7 +99,13 @@ This approach works by changing packets to scape filtering!
 ### Softether Client
 - [SoftEther](https://www.softether-download.com/en.aspx?product=softether) 
 - A simple vpn client for softether server
-
+### SSTP Client
+- Windows -> Built-in
+- [Android](https://play.google.com/store/apps/details?id=kittoku.osc&hl=en&gl=US), [Android: apk](https://github.com/kittoku/Open-SSTP-Client/releases/download/v1.5.5/osc-1.5.5.apk)
+- [macOS: isstp](https://github.com/axot/isstp), [macOS: sstp-client](https://gitlab.com/eivnaes/sstp-client)
+- [Linux](https://gitlab.com/eivnaes/sstp-client)
+- [iOS: AnyConnect](https://apps.apple.com/us/app/cisco-anyconnect/id1135064690)
+- 
 # Suggested VPS Providers
 **[`^        back to top        ^`](#table-of-content)**
 - [Hetzner](https://www.hetzner.com/cloud?country=ot) Cheap but high quality vps (starts from 3.79€/m for a vps with 2GB of RAM)
@@ -116,3 +122,4 @@ This approach works by changing packets to scape filtering!
 # Free AntiFilter with user registration
 **[`^        back to top        ^`](#table-of-content)**
 - [VpnGate](https://www.vpngate.net/en/)
+- [WindScribe](https://windscribe.com) - Free 10 GB VPN
