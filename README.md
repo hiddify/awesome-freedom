@@ -14,11 +14,12 @@ If you know more tools, please add it in issues or add a pull requests
   - [Client](#client)
     - [Clash](#clash)
     - [ServerLess](#serverless)
-    - [Shadowsocks](#shadowsocks)
-    - [Outline](#outline)
-    - [OpenVpn](#openvpn)
-    - [Cisco AnyConnect](#cisco-anyconnect)
+    - [Shadowsocks](#shadowsocks-client)
+    - [Outline](#outline-client)
+    - [OpenVpn](#openvpn-client)
+    - [Cisco AnyConnect](#cisco-anyconnect-client)
     - [SoftEther Client](#softether-client)
+    - [SSTP Client](#sstp-client)
 - [VPS Provider](#vps-provider)
 - [Free AntiFilter](#free-antifilter)
 - [Free AntiFilter with user registration](#free-antiFilter-with-user-registration)
@@ -50,7 +51,8 @@ If you know more tools, please add it in issues or add a pull requests
 
 ## Client
 **[`^        back to top        ^`](#table-of-content)**
-### Clash
+### Clash 
+`recommended`
  A Rule Based proxy (based on GEOIP, IP-CIDR, Domain, fallback, load balance) that support many protocols such as Shadowsocks(R), VMess, Trojan, Snell, SOCKS5, HTTP(S) that can be retrive by a link
  #### Clash Download
 - [Android: Google Play](https://play.google.com/store/apps/details?id=com.github.kr328.clash) [Android: APK](https://github.com/Kr328/ClashForAndroid/releases/download/v2.5.11/cfa-2.5.11-premium-universal-release.apk) [Android: Repository](https://github.com/Kr328/ClashForAndroid)
@@ -74,24 +76,24 @@ This approach works by changing packets to scape filtering!
 - [Android](https://github.com/zhenyolka/DPITunnel-android)
 - [Windows: GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) [Windows: GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel)
 
-### Shadowsocks
+### Shadowsocks Client
  **we suggest to use clash client instead of shadowsocks client**
 - [iOS: Shadowlink](https://apps.apple.com/us/app/shadowlink-shadowsocks-vpn/id1439686518) is not free. [How to bypass payment](https://github.com/WeAreMahsaAmini/FreeInternet/blob/main/README.md#ios)
 - [Android](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
 - [Windows](https://github.com/shadowsocks/shadowsocks-windows/releases)
 - [macOS](https://github.com/shadowsocks/shadowsocks-windows/releases)
 
-### Outline
+### Outline Client
 - [Outline](https://getoutline.org/fa/get-started/#step-3)
 
-### OpenVpn
+### OpenVpn Client
 - [Windows](https://openvpn.net/community-downloads/)
 - [Android](https://play.google.com/store/apps/details?id=de.blinkt.openvpn)
 - [iOS](https://apps.apple.com/fr/app/openvpn-connect/id590379981)
 - [macOS](https://openvpn.net/client-connect-vpn-for-mac-os/)
 - [Linux](https://openvpn.net/cloud-docs/openvpn-3-client-for-linux/)
 
-### Cisco AnyConnect
+### Cisco AnyConnect Client
 - [Windows / macOS / linux](https://software.cisco.com/download/home/286281283/type/282364313/release/4.10.05111)
 - [Android](https://play.google.com/store/apps/details?id=com.cisco.anyconnect.vpn.android.avf&hl=en&gl=US)
 - [iOS](https://apps.apple.com/us/app/cisco-secure-client/id1135064690?platform=iphone)
@@ -105,7 +107,7 @@ This approach works by changing packets to scape filtering!
 - [macOS: isstp](https://github.com/axot/isstp), [macOS: sstp-client](https://gitlab.com/eivnaes/sstp-client)
 - [Linux](https://gitlab.com/eivnaes/sstp-client)
 - [iOS: AnyConnect](https://apps.apple.com/us/app/cisco-anyconnect/id1135064690)
-- 
+
 # Suggested VPS Providers
 **[`^        back to top        ^`](#table-of-content)**
 - [Hetzner](https://www.hetzner.com/cloud?country=ot) Cheap but high quality vps (starts from 3.79€/m for a vps with 2GB of RAM)
