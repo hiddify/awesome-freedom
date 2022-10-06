@@ -34,17 +34,17 @@ If you know more tools, please add it in issues or add a pull requests
 ## Server
 **[`^        back to top        ^`](#table-of-content)**
 ### Gost
-- [Gost](https://github.com/ginuerzh/gost) Easy to setup but powerful and support nearly all proxy protocol such as tls tunnel ssh golang udp http2 socks5 shadowsocks kcp quic tuntap sni obfs4 dns 
+- [Gost](https://github.com/ginuerzh/gost) - Easy to setup but powerful and support nearly all proxy protocol such as tls tunnel ssh golang udp http2 socks5 shadowsocks kcp quic tuntap sni obfs4 dns 
 - Compatible Clients `clash` `outline`
 ### Shadowsocks
-- [Shadowsocks](https://shadowsocks.org/en/index.html) - A secure proxy, designed to protect your Internet traffic.
+- [Download](https://shadowsocks.org/en/index.html) - A secure proxy, designed to protect your Internet traffic.
 - [Tutorial](https://github.com/WeAreMahsaAmini/FreeInternet)
 - Compatible Clients `clash` `outline`
 ### Outline
-- [Outline](https://getoutline.org/fa/get-started/#step-1) - A secure socks5 proxy, designed to protect your Internet traffic. 
+- [Download](https://getoutline.org/fa/get-started/#step-1) - A secure socks5 proxy, designed to protect your Internet traffic. 
 - Compatible Clients `clash` `outline`
 ### Softether
-- [SoftEther](https://www.softether-download.com/en.aspx?product=softether) 
+- [Download](https://www.softether-download.com/en.aspx?product=softether) 
 - A simple vpn manager that supports many vpn protocol
 - Compatible Clients `pptp` `sstp` `l2tp` `openvpn` `softether`
 
