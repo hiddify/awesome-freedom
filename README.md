@@ -80,7 +80,8 @@ This approach works by changing packets to scape filtering!
 
 ### Shadowsocks Client
  **we suggest to use clash client instead of shadowsocks client**
-- [iOS: Shadowlink](https://apps.apple.com/us/app/shadowlink-shadowsocks-vpn/id1439686518) is not free. [How to bypass payment](https://github.com/WeAreMahsaAmini/FreeInternet/blob/main/README.md#ios)
+- [iOS: Potatso](https://apps.apple.com/app/potatso-lite/id1239860606) [iOS: Shadowlink](https://apps.apple.com/us/app/shadowlink-shadowsocks-vpn/id1439686518) Free.
+- [iOS: Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) is not free. [How to bypass payment](https://github.com/WeAreMahsaAmini/FreeInternet/blob/main/README.md#ios)
 - [Android](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
 - [Windows](https://github.com/shadowsocks/shadowsocks-windows/releases)
 - [macOS](https://github.com/shadowsocks/shadowsocks-windows/releases)
