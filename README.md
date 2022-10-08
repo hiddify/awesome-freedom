@@ -71,6 +71,7 @@ If you know more tools, please add it in issues or add a pull requests
  - [only pass non-iranian sites to proxy](https://github.com/hiddify/config/blob/main/clash/normal.yml)
  It uses direct connection for irannian sites (50% off in price) and  the non-iranian sites will pass to the proxy so you can avoid external sanctions.
  - [pass all sites to proxy](https://github.com/hiddify/config/blob/main/clash/all.yml) 
+ - [Full Clash Configuration](https://github.com/Dreamacro/clash/wiki/Configuration)
 
 ### ServerLess!!! 
 This approach works by changing packets to scape filtering! 
