@@ -66,6 +66,7 @@ If you know more tools, please add it in issues or add a pull requests
 <!--- [iOS: Stash not free](https://apps.apple.com/app/stash/id1596063349?platform=iphone) not free-->
  
  #### Clash example configuration for Iran
+ - [Full tutorial](https://lancellc.gitbook.io/clash)
  - [only pass filtered sites to proxy](https://github.com/hiddify/config/blob/main/clash/lite.yml)  
  It is useful when you want to use always the proxy without having any issues to all other sites. `Fastest solution` `lowest overhead on server`
  - [only pass non-iranian sites to proxy](https://github.com/hiddify/config/blob/main/clash/normal.yml)
