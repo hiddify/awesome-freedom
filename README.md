@@ -84,7 +84,7 @@ This approach works by changing packets to scape filtering!
  **we suggest to use clash client instead of shadowsocks client**
 - [iOS: Potatso](https://apps.apple.com/app/potatso-lite/id1239860606) [iOS: Shadowlink](https://apps.apple.com/us/app/shadowlink-shadowsocks-vpn/id1439686518) Free.
 - [iOS: Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) is not free. [How to bypass payment](https://github.com/WeAreMahsaAmini/FreeInternet/blob/main/README.md#ios)
-- [Android](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
+- [Android: sagernet](https://play.google.com/store/apps/details?id=io.nekohasekai.sagernet&hl=en&gl=US)
 - [Windows](https://github.com/shadowsocks/shadowsocks-windows/releases)
 - [macOS](https://github.com/shadowsocks/shadowsocks-windows/releases)
 
@@ -111,7 +111,7 @@ This approach works by changing packets to scape filtering!
 - [Android](https://play.google.com/store/apps/details?id=kittoku.osc&hl=en&gl=US), [Android: apk](https://github.com/kittoku/Open-SSTP-Client/releases/download/v1.5.5/osc-1.5.5.apk)
 - [macOS: isstp](https://github.com/axot/isstp), [macOS: sstp-client](https://gitlab.com/eivnaes/sstp-client)
 - [Linux](https://gitlab.com/eivnaes/sstp-client)
-- [iOS: AnyConnect](https://apps.apple.com/us/app/cisco-anyconnect/id1135064690)
+- [iOS: AnyConnect](https://apps.apple.com/us/app/cisco-anyconnect/id1135064690) not sure works
 
 # Suggested VPS Providers
 **[`^        back to top        ^`](#table-of-content)**
