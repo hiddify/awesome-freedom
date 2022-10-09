@@ -20,7 +20,7 @@ If you know more tools, please add it in issues or add a pull requests
     - [Cisco AnyConnect](#cisco-anyconnect-client)
     - [SoftEther Client](#softether-client)
     - [SSTP Client](#sstp-client)
-- [VPS Provider](#vps-provider)
+- [List of VPS Provider](vps-providers.md)
 - [Free AntiFilter](#free-antifilter)
 - [Free AntiFilter with user registration](#free-antiFilter-with-user-registration)
 
@@ -113,11 +113,6 @@ This approach works by changing packets to scape filtering!
 - [Linux](https://gitlab.com/eivnaes/sstp-client)
 - [iOS: AnyConnect](https://apps.apple.com/us/app/cisco-anyconnect/id1135064690) not sure works
 
-# Suggested VPS Providers
-**[`^        back to top        ^`](#table-of-content)**
-- [Hetzner](https://www.hetzner.com/cloud?country=ot) Cheap but high quality vps (starts from 3.79€/m for a vps with 2GB of RAM)
-- [OVH](https://www.ovhcloud.com/fr/vps/) (starts from 3.5€/m for a vps with 2GB of RAM)
-- [Azure](https://azure.microsoft.com/en-us/free/students/)  Free for students to setup 2 VPS (0.5 GB of RAM) with two IPs. [One Click Tutorial for setting up proxy in Azure](https://hiddify.github.io/setup_proxy.html)
 
 # Public Free AntiFilter
 **[`^        back to top        ^`](#table-of-content)**
@@ -125,8 +120,9 @@ This approach works by changing packets to scape filtering!
 - [Psiphon: Android](https://play.google.com/store/apps/details?id=com.psiphon3.subscription), [Psiphon: Android Apk](https://psiphon.ca/PsiphonAndroid.apk) [Psiphon: Windows](https://psiphon.ca/psiphon3.exe), [Psiphon: iOS](https://apps.apple.com/app/psiphon/id1276263909), [Psiphon: macOS](https://apps.apple.com/app/psiphon/id1276263909), [Psiphon: By Email](mailto:get@psiphon3.com)
 - [Ultrasurf: iOS](https://apps.apple.com/us/app/ultrasurf-vpn/id1563051300), [Ultrasurf: Android](https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ultrasurf&hl=en_US&gl=US), [Ultrasurf: Windows](https://ultrasurf.us/download/usf.zip), [Ultrasurf: chrome/edge browser](https://chrome.google.com/webstore/detail/ultrasurf-security-privac/mjnbclmflcpookeapghfhapeffmpodij)
 
-
 # Free AntiFilter with user registration
 **[`^        back to top        ^`](#table-of-content)**
 - [VpnGate](https://www.vpngate.net/en/)
 - [WindScribe](https://windscribe.com) - Free 10 GB VPN
+
+# [List of VPS Providers](vps-providers.md)
