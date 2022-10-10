@@ -1,8 +1,19 @@
 # VPS providers
 In this part, we provide a list of VPS providers that you can use it to buy a vps.
 
-# Free For Students
-- [Azure](https://azure.microsoft.com/en-us/free/students/)  Free for students to setup 2 VPS (0.5 GB of RAM) with two IPs. [One Click Tutorial for setting up proxy in Azure](https://hiddify.github.io/setup_proxy.html)
+# Free
+| Provider            | Price  | RAM (GB)    | VCPU | IP   | Storage (GB) | Location | Transfer (TB) |Order Link                                                      | Note|
+|---------------------|--------|-------------|------|------|--------------|----------|---------------|----------------------------------------------------------------|-----|
+| Azure For Students  | 0      | 1 (or 2*.05)| 1 (2)| 1 (2)| 4   SSD      | Multiple | 0.1           |[Order](https://azure.microsoft.com/en-us/free/students/)       | For Students only. (B1ls Instance) You can create one or two VPS. [One Click Tutorial for setting up proxy in Azure](https://hiddify.github.io/setup_proxy.html)|
+| Azure For All       | 0, 12 month| 1 | 1| 1 | 4   SSD      | Multiple | 0.1           |[Order](https://azure.microsoft.com/en-us/free/       | Needs Credit Card. (B1s only Instance) |
+| Google Cloud        | 0      | 1           | 2    | 1    | 30  SSD      | Multiple | 0.1           |[Order](https://cloud.google.com/free/)                         | Needs Credit Card. |
+| Oracle              | 0      | 1           | 1    | 1    | 100 SSD      | Multiple | 10            |[Order](https://www.oracle.com/cloud/free/#always-free)         | 50 Mbps link. You can create 2 VM for Free. Credit Card or Paypal Required|
+| euserv.com          | 0      | 1           | 1    | IPv6 | 10  HDD      | ?        | 1             |[Order](https://www.euserv.com/en/virtual-private-server/root-vserver/v2/vs2-free.php)         | IPv6 Only. You need to add them behind a CDN for Iran|
+| Amazon aws          | 0, 12 month| 1       | 2    | 1    |  ?           | Multiple | 0.1           |[Order](https://aws.amazon.com/free) | Needs Credit Card. |
+| Digital Ocean Student| 0, 12 month|        |      |      |              |          |               | [Order](https://www.digitalocean.com/github-students/)| Credit Card or Paypal Required, Free for Students Only,
+| Atlantic.net         | 0, 12 month| 2 -    | 1    | 1     | 50 SSD      | Multiple | 3             |[Order](https://cloud.atlantic.net/?page=signup)| Credit Card Required.
+
+
 
 # Less than $1/month
 | Provider            | Price  | RAM (GB) | VCPU | IP | Storage (GB) | Location | Transfer (TB) | virtualisation | Order Link                                                      |
