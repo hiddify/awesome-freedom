@@ -33,7 +33,7 @@ We do not include cheap VPS with less than 0.5GB RAM and less than 12 months in 
 | Provider            | Price  | RAM (GB) | VCPU | IP | Storage (GB) | Location | Transfer (TB) | virtualisation | Order Link                                                                                       |
 |---------------------|--------|----------|------|----|--------------|----------|---------------|----------------|--------------------------------------------------------------------------------------------------|
 | RackNerd.com        | $16/yr | 1.5      | 2    | 1  | 20 SSD       | USA      | 4             | KVM            | [Order](https://my.racknerd.com/cart.php?a=add&pid=135)                                          |
-
+| greencloudvps.com   | $15/yr | 2        | 1    | 1  | 20 SSD       | USA      | 2             | KVM            | [Order](https://greencloudvps.com/billing/store/budget-kvm-sale)
 
 
 # Less than 2$/month
