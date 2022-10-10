@@ -7,7 +7,6 @@ We do not include cheap VPS for less than 12 months in this list. The price in t
 | Provider            | Price  | RAM (GB)    | VCPU | IP   | Storage (GB) | Location | Transfer (TB) |Order Link                                                      | Note|
 |---------------------|--------|-------------|------|------|--------------|----------|---------------|----------------------------------------------------------------|-----|
 | Azure For Students  | 0      | 1 (or 2*.05)| 1 (2)| 1 (2)| 4   SSD      | Multiple | 0.1           |[Order](https://azure.microsoft.com/en-us/free/students/)       | For Students only. (B1ls Instance) You can create one or two VPS. [One Click Tutorial for setting up proxy in Azure](https://hiddify.github.io/setup_proxy.html)|
-
 | Google Cloud        | 0      | 1           | 2    | 1    | 30  SSD      | Multiple | 0.1           |[Order](https://cloud.google.com/free/)                         | Needs Credit Card. |
 | Oracle              | 0      | 1           | 1    | 1    | 100 SSD      | Multiple | 10            |[Order](https://www.oracle.com/cloud/free/#always-free)         | 50 Mbps link. You can create 2 VM for Free. Credit Card or Paypal Required|
 | euserv.com          | 0      | 1           | 1    | IPv6 | 10  HDD      | ?        | 1             |[Order](https://www.euserv.com/en/virtual-private-server/root-vserver/v2/vs2-free.php)         | IPv6 Only. You need to add them behind a CDN for Iran|
