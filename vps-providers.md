@@ -1,7 +1,7 @@
 # VPS providers
 In this part, we provide a list of VPS providers that you can use it to buy a vps.
 
-We do not include cheap VPS with less than 0.5GB RAM and less than 12 months in this list. The price in this list is the average of 12 month
+We do not include cheap VPS with less than 0.5GB RAM and less than 12 months in this list. The price in this list is the average of 12 month.
 
 # Free
 | Provider            |  RAM (GB)    | VCPU | IP   | Storage (GB) | Location | Transfer (TB) |Order Link                                                      & Note|
