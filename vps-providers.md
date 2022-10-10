@@ -49,9 +49,9 @@ We do not include cheap VPS for less than 12 months in this list. The price in t
 # Less than 3$/month
 | Provider            | Price  | RAM (GB) | VCPU | IP | Storage (GB) | Location | Transfer (TB) | virtualisation | Order Link                                                                                       |
 |---------------------|--------|----------|------|----|--------------|----------|---------------|----------------|--------------------------------------------------------------------------------------------------|
-| NetCup.de           | €3/mo (hourly) | 2| 2    | 1  | 40 SSD       | DE;AT    | 80            | KVM            | [Order](https://www.netcup.de/bestellen/produkt.php?produkt=2948)                                          |
+| NetCup.de           | €3/mo (hourly) | 2| 2    | 1  | 40 SSD       | DE;AT    | 80            | KVM            | [Order](https://www.netcup.de/bestellen/produkt.php?produkt=2948)                                |         |
 | RackNerd.com        | $32/yr | 2.5      | 3    | 1  | 40 SSD       | USA      | 6.5           | KVM            | [Order](https://my.racknerd.com/cart.php?a=add&pid=135)                                          |
-
+| hosteur.com         | €3/mo  | 2        | 1    | 1  | 30 ssd       | EUR      | ∞             | -              | [Order]https://www.hosteur.com/cloud/VPS)                                                        |
 
 # Less than 4$/month
 | Provider            | Price  | RAM (GB) | VCPU | IP | Storage (GB) | Location  | Transfer (TB) | virtualisation | Order Link                                                                                       |
