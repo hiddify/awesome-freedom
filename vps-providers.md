@@ -1,7 +1,7 @@
 # VPS providers
 In this part, we provide a list of VPS providers that you can use it to buy a vps.
 
-We do not include cheap VPS for less than 12 months in this list. The price in this list is the average of 12 month
+We do not include cheap VPS with less than 0.5GB RAM and less than 12 months in this list. The price in this list is the average of 12 month
 
 # Free
 | Provider            | Price  | RAM (GB)    | VCPU | IP   | Storage (GB) | Location | Transfer (TB) |Order Link                                                      | Note|
@@ -43,7 +43,7 @@ We do not include cheap VPS for less than 12 months in this list. The price in t
 | RackNerd.com        | $24/yr | 2.5      | 3    | 1  | 40 SSD       | USA      | 6.5           | KVM            | [Order](https://my.racknerd.com/cart.php?a=add&pid=135)                                          |
 | CloudServer.net     | $24/yr | 2        | 1    | 1  | 50 SSD       | USA      | 5             | KVM            | [Order](https://cloudserver.net/billing/cart.php?a=add&pid=13)                                   |
 | Hostnamaste.com     | $24/yr | 1        | 1    | 1  | 30 HDD       | France   | 1             | OpenVZ         | [Order](https://www.hostnamaste.com/clients/cart.php?a=add&pid=44&promocode=24PERYEAROPENVZ1024) |
-|                     |        |          |      |    |              |          |               |                |                                                                 |
+| Webhosting24.com    | $1.2/m | 0.5      | 1    | 1  | 10 SSD       | DE/US    | 2             | KVM            | [Order](https://console.webhosting24.com/cart.php?gid=49&language=english)                                                     |
 |                     |        |          |      |    |              |          |               |                |                                                                 |
 
 
