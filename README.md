@@ -126,3 +126,14 @@ This approach works by changing packets to scape filtering!
 - [WindScribe](https://windscribe.com) - Free 10 GB VPN
 
 # [List of VPS Providers](vps-providers.md)
+
+# Free Domain Names
+- [.ml, .tk, .ga, .cf, .gq,](https://freenom.com)
+- [.free](https://nic.free)
+- [subdomain, .ze.cx, .fr.nf .biz.st](https://www.nom.za/)
+- [subdomain, .1s.fr .be.ma .c0m.at .c4.fr .ch.ma .fr.ht .fr.mu .ht.cx .qc.cx .vu.cx .xl.cx .ze.tc](https://www.venez.fr/)
+- [.ipq.co, fdns.uk](https://www.ipq.co/)
+- [subdomain, us.to, .2p.fm .hs.vc .ix.tc .l5.ca .my.to .ro.lt .uk.ms .uk.to .0rg.us .10x.es .3cm.us .drm.hk .dyn.ch .ftp.sh .ham.gd .ind.st .ivi.pl .joe.dj .juk.fi .off.li .pii.at .rum.si .sly.io .xst.cl](https://freedns.afraid.org/)
+- [$1 Domain](https://www.namecheap.com/promos/99-cent-domain-names/)
+- [.42.pl](freedns.42.pl)  can create a dns by IP
+- [noip](https://www.noip.com/)
