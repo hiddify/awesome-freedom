@@ -4,16 +4,16 @@ In this part, we provide a list of VPS providers that you can use it to buy a vp
 We do not include cheap VPS with less than 0.5GB RAM and less than 12 months in this list. The price in this list is the average of 12 month
 
 # Free
-| Provider            | Price  | RAM (GB)    | VCPU | IP   | Storage (GB) | Location | Transfer (TB) |Order Link                                                      | Note|
-|---------------------|--------|-------------|------|------|--------------|----------|---------------|----------------------------------------------------------------|-----|
-| Azure For Students  | 0      | 1 (or 2*.05)| 1 (2)| 1 (2)| 4   SSD      | Multiple | 0.1           |[Order](https://azure.microsoft.com/en-us/free/students/)       | For Students only. (B1ls Instance) You can create one or two VPS. [One Click Tutorial for setting up proxy in Azure](https://hiddify.github.io/setup_proxy.html)|
-| Google Cloud        | 0      | 1           | 2    | 1    | 30  SSD      | Multiple | 0.1           |[Order](https://cloud.google.com/free/)                         | Needs Credit Card. |
-| Oracle              | 0      | 1           | 1    | 1    | 100 SSD      | Multiple | 10            |[Order](https://www.oracle.com/cloud/free/#always-free)         | 50 Mbps link. You can create 2 VM for Free. Credit Card or Paypal Required|
-| euserv.com          | 0      | 1           | 1    | IPv6 | 10  HDD      | ?        | 1             |[Order](https://www.euserv.com/en/virtual-private-server/root-vserver/v2/vs2-free.php)         | IPv6 Only. You need to add them behind a CDN for Iran|
-| Amazon aws          | 0, 1yr | 1       | 2    | 1    |  ?           | Multiple | 0.1           |[Order](https://aws.amazon.com/free) | Needs Credit Card. |
-| Digital Ocean Student| 0, 1yr| 1      | 1    | 1    | 25           | Multiple | 1             | [Order](https://www.digitalocean.com/github-students/)| Credit Card or Paypal Required, Free for Students Only,
-| Atlantic.net         | 0, 1yr| 2     | 1    | 1     | 50 SSD      | Multiple | 3             |[Order](https://cloud.atlantic.net/?page=signup)| Credit Card Required.
-| Azure For All       | 0, 1yr| 1 | 1| 1 | 4   SSD      | Multiple | 0.1           |[Order](https://azure.microsoft.com/en-us/free/)       | Needs Credit Card. (B1s only Instance) |
+| Provider            |  RAM (GB)    | VCPU | IP   | Storage (GB) | Location | Transfer (TB) |Order Link                                                      & Note|
+|---------------------|--------------|------|------|--------------|----------|---------------|---------------------------------------------------------------------|
+| Azure For Students  |  1 (or 2*.05)| 1 (2)| 1 (2)| 4   SSD      | Multiple | 0.1           |[Order](https://azure.microsoft.com/en-us/free/students/)        For Students only. (B1ls Instance) You can create one or two VPS. [One Click Tutorial for setting up proxy in Azure](https://hiddify.github.io/setup_proxy.html)|
+| Google Cloud        |  1           | 2    | 1    | 30  SSD      | Multiple | 0.1           |[Order](https://cloud.google.com/free/)                          Needs Credit Card. |
+| Oracle              |  1           | 1    | 1    | 100 SSD      | Multiple | 10            |[Order](https://www.oracle.com/cloud/free/#always-free)          50 Mbps link. You can create 2 VM for Free. Credit Card or Paypal Required|
+| euserv.com          |  1           | 1    | IPv6 | 10  HDD      | ?        | 1             |[Order](https://www.euserv.com/en/virtual-private-server/root-vserver/v2/vs2-free.php)          IPv6 Only. You need to add them behind a CDN for Iran|
+| Amazon aws          |  1       | 2    | 1    |  ?           | Multiple | 0.1           |[Order](https://aws.amazon.com/free) 1 yr; Needs Credit Card. |
+| Digital Ocean Student|  1      | 1    | 1    | 25           | Multiple | 1             | [Order](https://www.digitalocean.com/github-students/) 1 yr; Credit Card or Paypal Required, Free for Students Only,
+| Atlantic.net         |  2     | 1    | 1     | 50 SSD      | Multiple | 3             |[Order](https://cloud.atlantic.net/?page=signup) 1 yr; Credit Card Required.
+| Azure For All       |  1 | 1| 1 | 4   SSD      | Multiple | 0.1           |[Order](https://azure.microsoft.com/en-us/free/)        1 yr; Needs Credit Card. (B1s only Instance) |
 
 [Tutorial For Getting a Free VPS](https://www.youtube.com/watch?v=icqb564pvVc)
 
