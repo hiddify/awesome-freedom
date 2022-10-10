@@ -53,6 +53,7 @@ We do not include cheap VPS with less than 0.5GB RAM and less than 12 months in 
 | NetCup.de           | €3/mo (hourly) | 2| 2    | 1  | 40 SSD       | DE;AT    | 80            | KVM            | [Order](https://www.netcup.de/bestellen/produkt.php?produkt=2948)                                |         |
 | RackNerd.com        | $32/yr | 2.5      | 3    | 1  | 40 SSD       | USA      | 6.5           | KVM            | [Order](https://my.racknerd.com/cart.php?a=add&pid=135)                                          |
 | hosteur.com         | €3/mo  | 2        | 1    | 1  | 30 ssd       | EUR      | ∞             | -              | [Order](https://www.hosteur.com/cloud/VPS)                                                        |
+|CloudCone| €29/yr| 2 | 4| 1| 59 SSD|USA|6TB|KVM|[order](https://app.cloudcone.com/vps/101/create?token=5th-bday-ssd-2)|
 
 # Less than 4$/month
 | Provider            | Price  | RAM (GB) | VCPU | IP | Storage (GB) | Location  | Transfer (TB) | virtualisation | Order Link                                                                                       |
@@ -66,6 +67,7 @@ We do not include cheap VPS with less than 0.5GB RAM and less than 12 months in 
 | Provider            | Price  | RAM (GB) | VCPU | IP | Storage (GB) | Location | Transfer (TB) | virtualisation | Order Link                                                                                       |
 |---------------------|--------|----------|------|----|--------------|----------|---------------|----------------|--------------------------------------------------------------------------------------------------|
 | contabo.com         | €5/mo  | 8        | 4    | 1  | 100 SSD      | US;GER   | 32            | ~              | [Order](https://contabo.com/en/vps/vps-s-ssd/)                                                   |
+| cheapwindowsvps.com | €4.5/mo| 4        | 2    | 1  | 60  SSD      | US;      | ∞             | KVM            | [Order]([https://contabo.com/en/vps/vps-s-ssd/](https://cheapwindowsvps.com/lowend.php#top)  OS: `windows` & `linux`                                                    |
 
 
 # others not organized
