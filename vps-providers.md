@@ -23,7 +23,7 @@ We do not include cheap VPS with less than 0.5GB RAM and less than 12 months in 
 |---------------------|--------|----------|------|----|--------------|----------|---------------|----------------|-----------------------------------------------------------------|
 | EthernetServers.com | $12/yr | 1        | 1    | 2  | 30 SSD       | USA      | 2             | OpenVZ         | [Order](https://www.ethernetservers.com/clients/link.php?id=40) |
 | RackNerd.com        | $11/yr | 0.75     | 1    | 1  | 12 SSD       | USA      | 1             | KVM            | [Order](https://my.racknerd.com/cart.php?a=add&pid=587)         |
-| DediPath.com        | $12/yr | 0.5      | 1    | 1  | 5  SSD       | USA      | ∞             | OpenVZ         | [Order](https://portal.dedipath.com/aff.php?aff=1063)         |
+| DediPath.com        | $12/yr | 0.5      | 1    | 1  | 5  SSD       | USA      | ∞             | OpenVZ         | [Order](https://portal.dedipath.com/aff.php?aff=1063&pid=311)         |
 | AlexHost.com        | €12/yr | 1        | 1    | 1  | 10 SSD       | MOL(EUR) | ∞             | KVM            | [Order](https://alexhost.com/vps/#unmanaged-link)               |
 | ionos.it            | €1/mo  | 0.5      | 1    | 1  | 10 SSD       | SP;US;DE | ∞             | ?              | [Order](https://www.ionos.it/server/vps)                        |
 |                     |        |          |      |    |    SSD       |          |               |                | [Order]()                                                       |
