@@ -12,7 +12,7 @@ We do not include cheap VPS for less than 12 months in this list. The price in t
 | euserv.com          | 0      | 1           | 1    | IPv6 | 10  HDD      | ?        | 1             |[Order](https://www.euserv.com/en/virtual-private-server/root-vserver/v2/vs2-free.php)         | IPv6 Only. You need to add them behind a CDN for Iran|
 | Amazon aws          | 0, 1yr | 1       | 2    | 1    |  ?           | Multiple | 0.1           |[Order](https://aws.amazon.com/free) | Needs Credit Card. |
 | Digital Ocean Student| 0, 1yr| 1      | 1    | 1    | 25           | Multiple | 1             | [Order](https://www.digitalocean.com/github-students/)| Credit Card or Paypal Required, Free for Students Only,
-| Atlantic.net         | 0, 1yr| 2 -    | 1    | 1     | 50 SSD      | Multiple | 3             |[Order](https://cloud.atlantic.net/?page=signup)| Credit Card Required.
+| Atlantic.net         | 0, 1yr| 2     | 1    | 1     | 50 SSD      | Multiple | 3             |[Order](https://cloud.atlantic.net/?page=signup)| Credit Card Required.
 | Azure For All       | 0, 1yr| 1 | 1| 1 | 4   SSD      | Multiple | 0.1           |[Order](https://azure.microsoft.com/en-us/free/)       | Needs Credit Card. (B1s only Instance) |
 
 [Tutorial For Getting a Free VPS](https://www.youtube.com/watch?v=icqb564pvVc)
