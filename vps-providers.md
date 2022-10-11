@@ -2,6 +2,7 @@
 In this part, we provide a list of VPS providers that you can use it to buy a vps.
 
 We do not include cheap VPS with less than 0.5GB RAM and less than 12 months in this list. The price in this list is the average of 12 month.
+In addition, we don't include a VPS provider here, if the price is higher than well known providers such as Hetzner, Ovh, DigitalOcean, AWS, Azure.
 
 # Free
 | Provider            |  RAM (GB)    | VCPU | IP   | Storage (GB) | Location | Transfer (TB) |Order Link                                                      & Note|
@@ -14,6 +15,7 @@ We do not include cheap VPS with less than 0.5GB RAM and less than 12 months in 
 | Digital Ocean Student|  1      | 1    | 1    | 25           | Multi | 1             | [Order](https://www.digitalocean.com/github-students/) 1 yr; Credit Card or Paypal Required, Free for Students Only,
 | Atlantic.net         |  2     | 1    | 1     | 50 SSD      | Multi | 3             |[Order](https://cloud.atlantic.net/?page=signup) 1 yr; Credit Card Required.
 | Azure For All       |  1 | 1| 1 | 4   SSD      | Multi | 0.1           |[Order](https://azure.microsoft.com/en-us/free/)        1 yr; Needs Credit Card. (B1s only Instance) |
+| ikoula.com          |0.5|0.5|1|10 SSD| ? | ∞||            |[Order](https://www.ikoula.com/en/public-cloud) 16 month of free with €50 credit without duration|
 
 [Tutorial For Getting a Free VPS](https://www.youtube.com/watch?v=icqb564pvVc)
 
@@ -25,18 +27,18 @@ We do not include cheap VPS with less than 0.5GB RAM and less than 12 months in 
 | RackNerd.com        | $11/yr | 0.75     | 1    | 1  | 12 SSD       | USA      | 1             | KVM            | [Order](https://my.racknerd.com/cart.php?a=add&pid=587)         |
 | DediPath.com        | $12/yr | 0.5      | 1    | 1  | 5  SSD       | USA      | ∞             | OpenVZ         | [Order](https://portal.dedipath.com/aff.php?aff=1063&pid=311)         |
 | AlexHost.com        | €12/yr | 1        | 1    | 1  | 10 SSD       | MOL(EUR) | ∞             | KVM            | [Order](https://alexhost.com/vps/#unmanaged-link)               |
-| ionos.it            | €1/mo  | 0.5      | 1    | 1  | 10 SSD       | SP;US;DE | ∞             | ?              | [Order](https://www.ionos.it/server/vps)                        |
-|                     |        |          |      |    |    SSD       |          |               |                | [Order]()                                                       |
+| ionos.it            | €11/yr  | 0.5      | 1    | 1  | 10 SSD       | SP;US;DE | ∞             | ?              | [Order](https://www.ionos.it/server/vps)                        |
 
 
-# Less than 1.5$/month
+
+# Less than 1.5$/month RAM>=1 GB
 | Provider            | Price  | RAM (GB) | VCPU | IP | Storage (GB) | Location | Transfer (TB) | virtualisation | Order Link                                                                                       |
 |---------------------|--------|----------|------|----|--------------|----------|---------------|----------------|--------------------------------------------------------------------------------------------------|
 | RackNerd.com        | $16/yr | 1.5      | 2    | 1  | 20 SSD       | USA      | 4             | KVM            | [Order](https://my.racknerd.com/cart.php?a=add&pid=135)                                          |
 | greencloudvps.com   | $15/yr | 2        | 1    | 1  | 20 SSD       | USA      | 2             | KVM            | [Order](https://greencloudvps.com/billing/store/budget-kvm-sale)
 
 
-# Less than 2$/month
+# Less than 2$/month RAM>=1 GB
 | Provider            | Price  | RAM (GB) | VCPU | IP | Storage (GB) | Location | Transfer (TB) | virtualisation | Order Link                                                                                       |
 |---------------------|--------|----------|------|----|--------------|----------|---------------|----------------|--------------------------------------------------------------------------------------------------|
 | EthernetServers.com | $20/yr | 2        | 1    | 2  | 60 SSD       | USA      | 3             | OpenVZ         | [Order](https://www.ethernetservers.com/clients/link.php?id=41)                                  |
@@ -45,25 +47,27 @@ We do not include cheap VPS with less than 0.5GB RAM and less than 12 months in 
 | Hostnamaste.com     | $24/yr | 1        | 1    | 1  | 30 HDD       | France   | 1             | OpenVZ         | [Order](https://www.hostnamaste.com/clients/cart.php?a=add&pid=44&promocode=24PERYEAROPENVZ1024) |
 | Webhosting24.com    | $1.2/m | 0.5      | 1    | 1  | 10 SSD       | DE/US    | 2             | KVM            | [Order](https://console.webhosting24.com/cart.php?gid=49&language=english)                                                     |
 | aeza.net            | €1.7/m | 8        | 1    | 1  | 20 SSD       | NL Only  | ∞             | -              | [Order](https://aeza.net/virtual-servers)                                                                |
+| hostens.com         | $64/3yr| 2        | 1    | 1  | 20 SSD       | ?        | 4             | KVM            | [Order](https://www.hostens.com/vps-hosting/)|
 
 
-# Less than 3$/month
+# Less than 3$/month RAM>=2 GB
 | Provider            | Price  | RAM (GB) | VCPU | IP | Storage (GB) | Location | Transfer (TB) | virtualisation | Order Link                                                                                       |
 |---------------------|--------|----------|------|----|--------------|----------|---------------|----------------|--------------------------------------------------------------------------------------------------|
 | NetCup.de           | €3/mo (hourly) | 2| 2    | 1  | 40 SSD       | DE;AT    | 80            | KVM            | [Order](https://www.netcup.de/bestellen/produkt.php?produkt=2948)                                |         |
 | RackNerd.com        | $32/yr | 2.5      | 3    | 1  | 40 SSD       | USA      | 6.5           | KVM            | [Order](https://my.racknerd.com/cart.php?a=add&pid=135)                                          |
 | hosteur.com         | €3/mo  | 2        | 1    | 1  | 30 ssd       | EUR      | ∞             | -              | [Order](https://www.hosteur.com/cloud/VPS)                                                        |
-|CloudCone| €29/yr| 2 | 4| 1| 59 SSD|USA|6TB|KVM|[order](https://app.cloudcone.com/vps/101/create?token=5th-bday-ssd-2)|
+|CloudCone            | €29/yr | 2        | 4| 1| 59 SSD|USA|6TB|KVM|[order](https://app.cloudcone.com/vps/101/create?token=5th-bday-ssd-2)|
+|ikoula.com           |€3/mo   | 2        | 1| 1| 20 SSD|  [Order](https://www.ikoula.com/en/virtual-vps-server-hosting)|
 
-# Less than 4$/month
+# Less than 4$/month RAM >=2
 | Provider            | Price  | RAM (GB) | VCPU | IP | Storage (GB) | Location  | Transfer (TB) | virtualisation | Order Link                                                                                       |
 |---------------------|--------|----------|------|----|--------------|-----------|---------------|----------------|--------------------------------------------------------------------------------------------------|
 | RackNerd.com        | $32/yr | 2.5      | 3    | 1  | 40 SSD       | USA       | 6.5           | KVM            | [Order](https://my.racknerd.com/cart.php?a=add&pid=135)                                          |
 | Hetzner.com         | €3.7/mo| 2        | 1    | 1  | 20 SSD       |US;GER;FIN | 20            | ~              | [Order](https://www.hetzner.com/cloud) Most IPs are Blocked                                      |
-| OvhCloud.com        | $3.5/mo| 2        | 1    | 1  | 20 SSD       |CA;EUR;Asia| 20            | ~              | [Order](https://OvhCloud.com)                                                           |
+| OvhCloud.com        | $3.5/mo| 2        | 1    | 1  | 20 SSD       |CA;EUR;Asia| 20            | ~              | [Order](https://OvhCloud.com)                                                          |
 
 
-# Less than 5$/month
+# Less than 5$/month RAM >=3
 | Provider            | Price  | RAM (GB) | VCPU | IP | Storage (GB) | Location | Transfer (TB) | virtualisation | Order Link                                                                                       |
 |---------------------|--------|----------|------|----|--------------|----------|---------------|----------------|--------------------------------------------------------------------------------------------------|
 | contabo.com         | €5/mo  | 8        | 4    | 1  | 100 SSD      | US;GER   | 32            | ~              | [Order](https://contabo.com/en/vps/vps-s-ssd/)                                                   |
@@ -72,3 +76,8 @@ We do not include cheap VPS with less than 0.5GB RAM and less than 12 months in 
 
 # others not organized
 [scaleway.com](https://www.scaleway.com/en/stardust-instances/) 
+
+# Cloud Services
+| Provider            | Price  | RAM (GB) | VCPU | IP | Storage (GB) | Location  | Transfer (TB) | virtualisation | Order Link                                                                                       |
+|---------------------|--------|----------|------|----|--------------|-----------|---------------|----------------|--------------------------------------------------------------------------------------------------|
+| digitalocean| $4/mo (hourly)|0.5|1|1|50 SSD| Multi| 500|~|[Order](https://www.digitalocean.com/pricing/droplets)
