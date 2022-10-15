@@ -35,7 +35,7 @@ In addition, we don't include a VPS provider here, if the price is higher than w
 | Provider            | Price  | RAM (GB) | VCPU | IP | Storage (GB) | Location | Transfer (TB) | virtualisation | Order Link                                                                                       |
 |---------------------|--------|----------|------|----|--------------|----------|---------------|----------------|--------------------------------------------------------------------------------------------------|
 | RackNerd.com        | $16/yr | 1.5      | 2    | 1  | 20 SSD       | USA      | 4             | KVM            | [Order](https://my.racknerd.com/cart.php?a=add&pid=135)                                          |
-| greencloudvps.com   | $15/yr | 2        | 1    | 1  | 20 SSD       | USA      | 2             | KVM            | [Order](https://greencloudvps.com/billing/store/budget-kvm-sale)
+| greencloudvps.com   | $15/yr | 2        | 1    | 1  | 20 SSD       |US;RO;NL;UK| 2 - 10G port | KVM            | [Order](https://greencloudvps.com/billing/store/budget-kvm-sale)
 
 
 # Less than 2$/month RAM>=1 GB
@@ -54,6 +54,7 @@ In addition, we don't include a VPS provider here, if the price is higher than w
 | Provider            | Price  | RAM (GB) | VCPU | IP | Storage (GB) | Location | Transfer (TB) | virtualisation | Order Link                                                                                       |
 |---------------------|--------|----------|------|----|--------------|----------|---------------|----------------|--------------------------------------------------------------------------------------------------|
 | NetCup.de           | €3/mo (hourly) | 2| 2    | 1  | 40 SSD       | DE;AT    | 80            | KVM            | [Order](https://www.netcup.de/bestellen/produkt.php?produkt=2948)                                |         |
+| greencloudvps.com   | $25/yr | 4        | 2    | 1  | 35 SSD       |US;RO;NL;UK| 4 - 10G port | KVM            | [Order](https://greencloudvps.com/billing/store/budget-kvm-sale)
 | RackNerd.com        | $32/yr | 2.5      | 3    | 1  | 40 SSD       | USA      | 6.5           | KVM            | [Order](https://my.racknerd.com/cart.php?a=add&pid=135)                                          |
 | RackNerd.com        | $29/yr | 3.5      | 3    | 1  | 45 SSD       | USA      | 7             | KVM            | [Order](https://racknerdtracker.com/go.php?id=149)                                          |
 | hosteur.com         | €3/mo  | 2        | 1    | 1  | 30 ssd       | EUR      | ∞             | -              | [Order](https://www.hosteur.com/cloud/VPS)                                                        |
@@ -63,10 +64,9 @@ In addition, we don't include a VPS provider here, if the price is higher than w
 # Less than 4$/month RAM >=2
 | Provider            | Price  | RAM (GB) | VCPU | IP | Storage (GB) | Location  | Transfer (TB) | virtualisation | Order Link                                                                                       |
 |---------------------|--------|----------|------|----|--------------|-----------|---------------|----------------|--------------------------------------------------------------------------------------------------|
-| RackNerd.com        | $32/yr | 2.5      | 3    | 1  | 40 SSD       | USA       | 6.5           | KVM            | [Order](https://my.racknerd.com/cart.php?a=add&pid=135)                                          |
 | Hetzner.com         | €3.7/mo| 2        | 1    | 1  | 20 SSD       |US;GER;FIN | 20            | ~              | [Order](https://www.hetzner.com/cloud) Most IPs are Blocked                                      |
 | OvhCloud.com        | $3.5/mo| 2        | 1    | 1  | 20 SSD       |CA;EUR;Asia| 20            | ~              | [Order](https://OvhCloud.com)                                                          |
-
+| greencloudvps.com   | $45/yr | 8        | 4    | 1  | 60 SSD       |US;RO;NL;UK| 8 - 10G port  | KVM            | [Order](https://greencloudvps.com/billing/store/budget-kvm-sale)
 
 # Less than 5$/month RAM >=3
 | Provider            | Price  | RAM (GB) | VCPU | IP | Storage (GB) | Location | Transfer (TB) | virtualisation | Order Link                                                                                       |
