@@ -84,7 +84,8 @@ This approach works by changing packets to scape filtering!
 
 ### Shadowsocks Client
  **we suggest to use clash client instead of shadowsocks client**
-- [iOS: Potatso](https://apps.apple.com/app/potatso-lite/id1239860606), [iOS: Shadowlink](https://apps.apple.com/us/app/shadowlink-shadowsocks-vpn/id1439686518),  [iOS: Surge 5](https://apps.apple.com/us/app/id1442620678), [iOS: Spectre](https://apps.apple.com/us/app/spectre-vpn/id1508712998) [iOS: oneclick](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197) Free.
+- [iOS: OneClick](https://apps.apple.com/us/app/id1545555197) Free, 
+[iOS: Potatso](https://apps.apple.com/app/potatso-lite/id1239860606), [iOS: Shadowlink](https://apps.apple.com/us/app/shadowlink-shadowsocks-vpn/id1439686518),  [iOS: Surge 5](https://apps.apple.com/us/app/id1442620678), [iOS: Spectre](https://apps.apple.com/us/app/spectre-vpn/id1508712998) [iOS: oneclick](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197) Free.
 - [iOS: Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) is not free. [How to bypass payment](https://github.com/WeAreMahsaAmini/FreeInternet/blob/main/guides/shadowsocks-v2ray-tls/how-to-connect.md#%D8%A2%DB%8C%D9%81%D9%88%D9%86-%D9%88-%D8%A2%DB%8C%D9%BE%D8%AF)
 - [Android: sagernet](https://play.google.com/store/apps/details?id=io.nekohasekai.sagernet&hl=en&gl=US)
 - [Windows](https://github.com/shadowsocks/shadowsocks-windows/releases)
