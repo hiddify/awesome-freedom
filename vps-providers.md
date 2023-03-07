@@ -72,14 +72,14 @@ In addition, we don't include a VPS provider here, if the price is higher than w
 # Less than 5$/month RAM >=3
 | Provider            | Price  | RAM (GB) | VCPU | IP | Storage (GB) | Location | Transfer (TB) | virtualisation | Order Link                                                                                       | Crypto pay  |
 |---------------------|--------|----------|------|----|--------------|----------|---------------|----------------|--------------------------------------------------------------------------------------------------|-------------|
-| contabo         | €5/mo  | 8        | 4    | 1  | 100 SSD      | US;GER   | 32            | ~              | [Order](https://contabo.com/en/vps/vps-s-ssd/)                                                   | Yes |
-| cheapwindowsvps | €4.5/mo| 4        | 2    | 1  | 60  SSD      | US;      | ∞             | KVM            | [Order](https://cheapwindowsvps.com/lowend.php#top)                                                    |
+| contabo         | €5/mo  | 8        | 4    | 1  | 100 SSD      | US;GER   | 32            | ~              | [Order](https://contabo.com/en/vps/vps-s-ssd/)                                                   | [No](https://docs.contabo.com/docs/accounts-billing/intro/) |
+| cheapwindowsvps | €4.5/mo| 4        | 2    | 1  | 60  SSD      | US;      | ∞             | KVM            | [Order](https://cheapwindowsvps.com/lowend.php#top)                                                    | [Yes](https://cheapwindowsvps.com/faq.php) |
 
 
 # Not organized Cloud Services
 | Provider            | Price  | RAM (GB) | VCPU | IP | Storage (GB) | Location  | Transfer (TB) | virtualisation | Order Link                                                                                       | Crypto pay  |
 |---------------------|--------|----------|------|----|--------------|-----------|---------------|----------------|--------------------------------------------------------------------------------------------------|-------------|
-| digitalocean| $4/mo (hourly)|0.5|1|1|50 SSD| Multi| 500|~|[Order](https://www.digitalocean.com/pricing/droplets)
+| digitalocean| $4/mo (hourly)|0.5|1|1|50 SSD| Multi| 500|~|[Order](https://www.digitalocean.com/pricing/droplets) | [Yes](https://www.digitalocean.com/community/tools/bitlaunch) |
 | BlueVPS | $3.99/mo | 0.5 | 1 | 1 | 6 SSD | Multi | ∞ | ~ | [Order](https://bluevps.com/) | Yes |
 | Hostinger | $3.99/mo | 1 | 1 | 1 | 20 SSD | US;EUR | 1 | ~ | [Order](https://www.hostinger.com/vps-hosting) | Yes |
 | CherryServers | $5.83/mo | 1 | 1 | 1 | 20 SSD | US;EUR | ∞ | ~ | [Order](https://www.cherryservers.com/virtual-servers/cloud-vps) | Yes |
