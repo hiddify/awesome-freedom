@@ -28,7 +28,7 @@ In addition, we don't include a VPS provider here, if the price is higher than w
 | DediPath      | $12/yr | 0.5      | 1    | 1  | 5  SSD       | USA      | ∞             | OpenVZ         | [Order](https://portal.dedipath.com/aff.php?aff=1063&pid=311)         |
 | AlexHost       | €12/yr | 1        | 1    | 1  | 10 SSD       | MOL(EUR) | ∞             | KVM            | [Order](https://alexhost.com/vps/#unmanaged-link)               |
 | ionos.it            | €11/yr  | 0.5      | 1    | 1  | 10 SSD       | SP;US;DE | ∞             | ?              | [Order](https://www.ionos.it/server/vps)                        |
-
+| ApeWeb | £12/yr | 0.5 | 2 | 1 | 10 SSD | Norway | ∞ | KVM | [Order](https://cms.apeweb.uk/index.php?rp=/store/iran-offer) | Yes |
 
 
 # Less than 1.5$/month RAM>=1 GB
@@ -36,7 +36,7 @@ In addition, we don't include a VPS provider here, if the price is higher than w
 |---------------------|--------|----------|------|----|--------------|----------|---------------|----------------|--------------------------------------------------------------------------------------------------|-------------|
 | RackNerd      | $16/yr | 1.5      | 2    | 1  | 20 SSD       | USA      | 4             | KVM            | [Order](https://my.racknerd.com/cart.php?a=add&pid=135)                                          |
 | greencloudvps  | $15/yr | 2        | 1    | 1  | 20 SSD       |US;RO;NL;UK| 2 - 10G port | KVM            | [Order](https://greencloudvps.com/billing/store/budget-kvm-sale)                                 | 
-
+| ApeWeb | £18/yr | 1 | 2 | 1 | 20 SSD | Norway | ∞ | KVM | [Order](https://cms.apeweb.uk/index.php?rp=/store/iran-offer) | Yes |
 
 # Less than 2$/month RAM>=1 GB
 | Provider            | Price  | RAM (GB) | VCPU | IP | Storage (GB) | Location | Transfer (TB) | virtualisation | Order Link                                                                                       | Crypto pay  |
@@ -49,7 +49,6 @@ In addition, we don't include a VPS provider here, if the price is higher than w
 | aeza.net            | €1.7/m | 8        | 1    | 1  | 20 SSD       | NL Only  | ∞             | -              | [Order](https://aeza.net/virtual-servers)                                                                | 
 | hostens      | $64/3yr| 2        | 1    | 1  | 20 SSD       | ?        | 4             | KVM            | [Order](https://www.hostens.com/vps-hosting/)|
 | HyeCloud            | $2/m   | 2        | 1    | ?  | 20 SSD       | USA      | 20            | KVM            | [Order](https://cloud.hye.gg/budget-compute)|
-| 
 
 # Less than 3$/month RAM>=2 GB
 | Provider            | Price  | RAM (GB) | VCPU | IP | Storage (GB) | Location | Transfer (TB) | virtualisation | Order Link                                                                                       | Crypto pay  |
@@ -61,6 +60,7 @@ In addition, we don't include a VPS provider here, if the price is higher than w
 | hosteur         | €3/mo  | 2        | 1    | 1  | 30 ssd       | EUR      | ∞             | -              | [Order](https://www.hosteur.com/cloud/VPS)                                                        |
 | CloudCone           | €29/yr | 2        | 4| 1| 59 SSD|USA|6TB|KVM|[order](https://app.cloudcone.com/vps/101/create?token=5th-bday-ssd-2)|
 | Ikoula        |€3/mo   | 2        | 1| 1| 20 SSD|  [Order](https://www.ikoula.com/en/virtual-vps-server-hosting)|
+| ApeWeb | £29/yr | 2 | 2 | 1 | 40 SSD | Norway | ∞ | KVM | [Order](https://cms.apeweb.uk/index.php?rp=/store/iran-offer) | Yes |
 
 # Less than 4$/month RAM >=2
 | Provider            | Price  | RAM (GB) | VCPU | IP | Storage (GB) | Location  | Transfer (TB) | virtualisation | Order Link                                                                                       | Crypto pay  |
