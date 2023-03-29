@@ -1,4 +1,4 @@
-# Awesome Iran Freedom
+# Awesome Freedom
 In this repository we have collected all awesome tools for iranian people.
 
 If you know more tools, please add it in issues or add a pull requests
