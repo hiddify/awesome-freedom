@@ -49,7 +49,6 @@ In addition, we don't include a VPS provider here, if the price is higher than w
 | aeza.net            | €1.7/m | 8        | 1    | 1  | 20 SSD       | NL Only  | ∞             | -              | [Order](https://aeza.net/virtual-servers)                                                                | 
 | hostens      | $64/3yr| 2        | 1    | 1  | 20 SSD       | ?        | 4             | KVM            | [Order](https://www.hostens.com/vps-hosting/)|
 | HyeCloud            | $2/m   | 2        | 1    | ?  | 20 SSD       | USA      | 20            | KVM            | [Order](https://cloud.hye.gg/budget-compute)|
-|
 
 # Less than 3$/month RAM>=2 GB
 | Provider            | Price  | RAM (GB) | VCPU | IP | Storage (GB) | Location | Transfer (TB) | virtualisation | Order Link                                                                                       | Crypto pay  |
