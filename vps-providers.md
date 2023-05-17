@@ -42,11 +42,11 @@ In addition, we don't include a VPS provider here, if the price is higher than w
 | Provider            | Price  | RAM (GB) | VCPU | IP | Storage (GB) | Location | Transfer (TB) | virtualisation | Order Link                                                                                       | Crypto pay  |
 |---------------------|--------|----------|------|----|--------------|----------|---------------|----------------|--------------------------------------------------------------------------------------------------|-------------|
 | EthernetServers | $20/yr | 2        | 1    | 2  | 60 SSD       | USA      | 3             | OpenVZ         | [Order](https://www.ethernetservers.com/clients/link.php?id=41)                                  |
-| RackNerd      | $24/yr | 2.5      | 3    | 1  | 40 SSD       | USA      | 6.5           | KVM            | [Order](https://my.racknerd.com/cart.php?a=add&pid=135)                                          |
+| RackNerd      | $24/yr | 2.5      | 3    | 1  | 40 SSD       | USA      | 6.5           | KVM            | [Order](https://my.racknerd.com/cart.php?a=add&pid=135) Update: Sometimes it may not be available.                                          |
 | CloudServer   | $24/yr | 2        | 1    | 1  | 50 SSD       | USA      | 5             | KVM            | [Order](https://cloudserver.net/billing/cart.php?a=add&pid=13)                                   |
 | Hostnamaste   | $24/yr | 1        | 1    | 1  | 30 HDD       | France   | 1             | OpenVZ         | [Order](https://www.hostnamaste.com/clients/cart.php?a=add&pid=44&promocode=24PERYEAROPENVZ1024) |
 | Webhosting24  | $1.2/m | 0.5      | 1    | 1  | 10 SSD       | DE/US    | 2             | KVM            | [Order](https://console.webhosting24.com/cart.php?gid=49&language=english)                                                     |
-| aeza.net            | €1.7/m | 8        | 1    | 1  | 20 SSD       | NL Only  | ∞             | -              | [Order](https://aeza.net/virtual-servers)                                                                | 
+| aeza.net            | €1.7/m | 8        | 1    | 1  | 20 SSD       | NL Only  | ∞             | -              | [Order](https://aeza.net/virtual-servers) Update: Sometimes it may not be available.                                                                | 
 | hostens      | $64/3yr| 2        | 1    | 1  | 20 SSD       | ?        | 4             | KVM            | [Order](https://www.hostens.com/vps-hosting/)|
 | HyeCloud            | $2/m   | 2        | 1    | ?  | 20 SSD       | USA      | 20            | KVM            | [Order](https://cloud.hye.gg/budget-compute)|
 
