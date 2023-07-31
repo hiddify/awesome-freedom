@@ -133,12 +133,12 @@ This approach works by changing packets to scape filtering!
 # Free Domain Names
 - [sslip](https://sslip.io/) and [nip](https://nip.io)
 - [many subdomain, us.to, mds.ir, ~40.000 domains](https://freedns.afraid.org/): it is very nice just you need to register an account and point the ip of your-server to a name.
-- [.ml, .tk, .ga, .cf, .gq,](https://freenom.com) : Top-level DNS record
+- [.ml, .tk, .ga, .cf, .gq,](https://freenom.com): Top-level DNS record
 - [.free](https://nic.free): Top-level DNS record
 - [subdomain, .ze.cx, .fr.nf .biz.st](https://www.nom.za/)
 - [subdomain, .1s.fr .be.ma .c0m.at .c4.fr .ch.ma .fr.ht .fr.mu .ht.cx .qc.cx .vu.cx .xl.cx .ze.tc](https://www.venez.fr/)
 - [.ipq.co, fdns.uk](https://www.ipq.co/)
-
 - [$1 Domain](https://www.namecheap.com/promos/99-cent-domain-names/)
+- [$1 Domain](https://www.hostinger.com/domain-name-search): Doesn't need personal info and ... Payed with cryptocurreny.
 - [.42.pl](freedns.42.pl)  can create a dns by IP
 - [noip](https://www.noip.com/)
