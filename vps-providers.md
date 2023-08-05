@@ -88,3 +88,4 @@ In addition, we don't include a VPS provider here, if the price is higher than w
 | Cryptovps | $6.50/mo |1 | 1 | 1 | 25 SSD | GER;FIN | ∞ | ~ | [Order](https://www.cryptovps.host/) | Yes |
 | Ultahost | $3.29/mo | 1 | 1 | 1 | 30 SSD | Multi | ∞ | ~ | [Order](https://ultahost.com/) | Yes |
 | pq.hosting | €4.77/mo | 1 | 1 | 1 | 15 SSD | Multi | ∞ | ~ | [Order](https://pq.hosting/) | Yes |
+| hoszealot (not verified) | €4.58/mo | 1 | 3 | 1 | 40 HDD | Multi | ∞ | ~ | [Order](https://www.hostzealot.com/vps) | Yes |
