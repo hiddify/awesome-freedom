@@ -89,3 +89,9 @@ In addition, we don't include a VPS provider here, if the price is higher than w
 | Ultahost | $3.29/mo | 1 | 1 | 1 | 30 SSD | Multi | ∞ | ~ | [Order](https://ultahost.com/) | Yes |
 | pq.hosting | €4.77/mo | 1 | 1 | 1 | 15 SSD | Multi | ∞ | ~ | [Order](https://pq.hosting/) | Yes |
 | hoszealot (not verified) | €4.58/mo | 1 | 3 | 1 | 40 HDD | Multi | ∞ | ~ | [Order](https://www.hostzealot.com/vps) | Yes |
+| Little Creek Hosting | $3.50/mo | 4 | 4 | 1 | 80 NVME | Multi | 6 | ~ | [Order](https://www.littlecreekhosting.com/clients/cart.php?a=confproduct&i=0) | Yes |
+| Racknerd | $10.28/yr | 1 | 1 | 1 | 10 SSD | Multi | 1 | ~ | [Order](https://my.racknerd.com/cart.php?a=add&pid=695) | Yes |
+| Atomic Networks | $12.99/yr | 1 | 1 | 1 | 20 SSD | US | 1 | ~ | [Order](https://billing.atomicnetworks.co/cart.php?a=confproduct&i=0) | Yes |
+| Reliable VPS | $12.00/6mo | 2 | 1 | 1 | 20 SSD | US | 1 | ~ | [Order](https://cloud.reliablevps.us/cart.php?a=confproduct&i=0) | Yes |
+| Khan Webhost | $3.00/mo | 2 | 4 | 1 | 40 SSD | US | 2 | ~ | [Order](https://khanwebhost.com/cart.php?a=confproduct&i=0) | Yes |
+| Kuroit | €3.00/mo | 1 | 1 | 1 | 15 SSD | Multi | 1 | ~ | [Order](https://www.kuroit.com/vps/) | Yes |
