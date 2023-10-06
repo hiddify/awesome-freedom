@@ -46,7 +46,7 @@ In addition, we don't include a VPS provider here, if the price is higher than w
 | CloudServer   | $24/yr | 2        | 1    | 1  | 50 SSD       | USA      | 5             | KVM            | [Order](https://cloudserver.net/billing/cart.php?a=add&pid=13)                                   |
 | Hostnamaste   | $24/yr | 1        | 1    | 1  | 30 HDD       | France   | 1             | OpenVZ         | [Order](https://www.hostnamaste.com/clients/cart.php?a=add&pid=44&promocode=24PERYEAROPENVZ1024) |
 | Webhosting24  | $1.2/m | 0.5      | 1    | 1  | 10 SSD       | DE/US    | 2             | KVM            | [Order](https://console.webhosting24.com/cart.php?gid=49&language=english)                                                     |
-| aeza.net            | €1.7/m | 8        | 1    | 1  | 20 SSD       | NL Only  | ∞             | -              | [Order](https://aeza.net/virtual-servers) Update: Sometimes it may not be available.                                                                | 
+| aeza.net            | €1.7/m | 8        | 1    | 1  | 20 SSD       | NL Only  | ∞             | -              | [Order](https://aeza.net/?ref=379800) Update: Sometimes it may not be available.                                                                | 
 | hostens      | $64/3yr| 2        | 1    | 1  | 20 SSD       | ?        | 4             | KVM            | [Order](https://www.hostens.com/vps-hosting/)|
 | HyeCloud            | $2/m   | 2        | 1    | ?  | 20 SSD       | USA      | 20            | KVM            | [Order](https://cloud.hye.gg/budget-compute)|
 
