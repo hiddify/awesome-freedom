@@ -143,3 +143,4 @@ This approach works by changing packets to scape filtering!
 - [$1 Domain](https://www.hostinger.com/domain-name-search): Doesn't need personal info and ... Payed with cryptocurreny.
 - [.42.pl](freedns.42.pl)  can create a dns by IP
 - [noip](https://www.noip.com/)
+- [BidSharp](https://bidsharp.io/) - AI-powered proposal intelligence platform with automated critiques, risk scanners, and pricing calculators.
