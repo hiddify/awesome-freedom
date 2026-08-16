@@ -143,3 +143,6 @@ This approach works by changing packets to scape filtering!
 - [$1 Domain](https://www.hostinger.com/domain-name-search): Doesn't need personal info and ... Payed with cryptocurreny.
 - [.42.pl](freedns.42.pl)  can create a dns by IP
 - [noip](https://www.noip.com/)
+
+# Linux Tools
+- [Linux_Mirrors](https://github.com/RMNO21/Linux_Mirrors) - Cross‑distribution Linux mirror manager written to maintain package manager access during internet restrictions and blackouts.
