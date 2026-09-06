@@ -13,6 +13,7 @@ If you know more tools, please add it in issues or add a pull requests
     - [SoftEther](#softether)
   - [Client](#client)
     - [Clash](#clash)
+    - [Caspian-BYOC](#caspian-byoc-wifi-gateway)
     - [ServerLess](#serverless)
     - [Shadowsocks](#shadowsocks-client)
     - [Outline](#outline-client)
@@ -75,6 +76,9 @@ If you know more tools, please add it in issues or add a pull requests
  It uses direct connection for irannian sites (50% off in price) and  the non-iranian sites will pass to the proxy so you can avoid external sanctions.
  - [pass all sites to proxy](https://github.com/hiddify/config/blob/main/clash/all.yml) 
  - [Full Clash Configuration](https://github.com/Dreamacro/clash/wiki/Configuration)
+
+### Caspian-BYOC (WiFi gateway)
+- [Caspian-BYOC](https://github.com/Iman/caspian) - Windows, macOS, Linux and Raspberry Pi. Paste one VLESS, VMess, Trojan, Shadowsocks or Hysteria2 link and the machine becomes a WiFi hotspot; every device that joins goes through the tunnel, no app on the phones. Persian-first panel, English available.
 
 ### ServerLess!!! 
 This approach works by changing packets to scape filtering! 
