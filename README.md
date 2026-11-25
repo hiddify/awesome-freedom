@@ -124,6 +124,8 @@ This approach works by changing packets to scape filtering!
 - [Ultrasurf: iOS](https://apps.apple.com/us/app/ultrasurf-vpn/id1563051300), [Ultrasurf: Android](https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ultrasurf&hl=en_US&gl=US), [Ultrasurf: Windows](https://ultrasurf.us/download/usf.zip), [Ultrasurf: chrome/edge browser](https://chrome.google.com/webstore/detail/ultrasurf-security-privac/mjnbclmflcpookeapghfhapeffmpodij)
 
 - [oblivion: android](https://github.com/bepass-org/oblivion), [oblivion: Linux](https://github.com/bepass-org/oblivion-desktop), [oblivion: Windows](https://github.com/bepass-org/oblivion-desktop), [oblivion: mac](https://github.com/bepass-org/oblivion-desktop)
+- [HotaruNet: Android](https://github.com/OneForAllHub/HotaruNet/releases/latest), [HotaruNet: Windows](https://github.com/OneForAllHub/HotaruNet/releases/latest), [HotaruNet: Repository](https://github.com/OneForAllHub/HotaruNet) - Free, open-source, zero-config Android & Windows client with real bandwidth probing and auto-failover across VLESS REALITY, Cloudflare WARP, Hysteria 2, XHTTP, and WS+TLS.
+
 # Free AntiFilter with user registration
 **[`^        back to top        ^`](#table-of-content)**
 - [VpnGate](https://www.vpngate.net/en/)
