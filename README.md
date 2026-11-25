@@ -36,6 +36,7 @@ If you know more tools, please add it in issues or add a pull requests
 **[`^        back to top        ^`](#table-of-content)**
 ### One Click Setup MultiProxy
 - [Hiddify](https://hiddify.github.io/setup-proxy-one-click.html)
+- [still-ui](https://github.com/Dv2Corn/still-ui) - Self-hosted Xray panel with a one-command install (continuation of 3x-ui): VLESS REALITY, Hysteria2, AmneziaWG, encrypted backups
 ### Gost
 - [Gost](https://github.com/ginuerzh/gost) - Easy to setup but powerful and support nearly all proxy protocol such as tls tunnel ssh golang udp http2 socks5 shadowsocks kcp quic tuntap sni obfs4 dns 
 - [Document](https://v2.gost.run/en/)
