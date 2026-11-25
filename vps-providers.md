@@ -95,3 +95,4 @@ In addition, we don't include a VPS provider here, if the price is higher than w
 | Reliable VPS | $12.00/6mo | 2 | 1 | 1 | 20 SSD | US | 1 | ~ | [Order](https://cloud.reliablevps.us/cart.php?a=confproduct&i=0) | Yes |
 | Khan Webhost | $3.00/mo | 2 | 4 | 1 | 40 SSD | US | 2 | ~ | [Order](https://khanwebhost.com/cart.php?a=confproduct&i=0) | Yes |
 | Kuroit | €3.00/mo | 1 | 1 | 1 | 15 SSD | Multi | 1 | ~ | [Order](https://www.kuroit.com/vps/) | Yes |
+| OuiHeberg | €7.00/mo | 4 | 2 | 1 | 45 NVMe | FR (Marseille);DE;NL;US | ? | KVM | [Order](https://www.ouiheberg.com/en/vps-linux) Own network AS208226, 3 Tbps Anti-DDoS, IPv4 + IPv6 | Yes |
