@@ -53,6 +53,7 @@ In addition, we don't include a VPS provider here, if the price is higher than w
 # Less than 3$/month RAM>=2 GB
 | Provider            | Price  | RAM (GB) | VCPU | IP | Storage (GB) | Location | Transfer (TB) | virtualisation | Order Link                                                                                       | Crypto pay  |
 |---------------------|--------|----------|------|----|--------------|----------|---------------|----------------|--------------------------------------------------------------------------------------------------|-------------|
+| Interserver     |  $3/mo | 2| 1    | 1  | 40 SSD       | USA    | 2 -64           | KVM            | [Order](https://www.interserver.net/vps)   
 | NetCup           | €3/mo (hourly) | 2| 2    | 1  | 40 SSD       | DE;AT    | 80            | KVM            | [Order](https://www.netcup.de/bestellen/produkt.php?produkt=2948)                                |         |
 | greencloudvps  | $25/yr | 4        | 2    | 1  | 35 SSD       |US;RO;NL;UK| 4 - 10G port | KVM            | [Order](https://greencloudvps.com/billing/store/budget-kvm-sale)
 | RackNerd       | $32/yr | 2.5      | 3    | 1  | 40 SSD       | USA      | 6.5           | KVM            | [Order](https://my.racknerd.com/cart.php?a=add&pid=135)                                          |
