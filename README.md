@@ -129,6 +129,7 @@ This approach works by changing packets to scape filtering!
 
 - [oblivion: android](https://github.com/bepass-org/oblivion), [oblivion: Linux](https://github.com/bepass-org/oblivion-desktop), [oblivion: Windows](https://github.com/bepass-org/oblivion-desktop), [oblivion: mac](https://github.com/bepass-org/oblivion-desktop)
 - [HotaruNet: Android](https://github.com/OneForAllHub/HotaruNet/releases/latest), [HotaruNet: Windows](https://github.com/OneForAllHub/HotaruNet/releases/latest), [HotaruNet: Repository](https://github.com/OneForAllHub/HotaruNet) - Free, open-source, zero-config Android & Windows client with real bandwidth probing and auto-failover across VLESS REALITY, Cloudflare WARP, Hysteria 2, XHTTP, and WS+TLS.
+- [AnyProxy: web (no install)](https://anyproxy.site), [AnyProxy: Chrome/Edge extension](https://chromewebstore.google.com/detail/gdeefgkephoadlankpbacofdfmdnncmi) - Free browser-based web proxy; opens a site in your tab through servers in Singapore, Frankfurt or Virginia. No account needed. Covers one tab, not the whole device.
 
 # Free AntiFilter with user registration
 **[`^        back to top        ^`](#table-of-content)**
